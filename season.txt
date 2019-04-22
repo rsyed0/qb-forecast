@@ -1,0 +1,11 @@
+http://hsquizbowl.org/db/tournaments/5313/stats/competitive_all_games/games/
+http://hsquizbowl.org/db/tournaments/5313/stats/standard_all_games/games/
+http://hsquizbowl.org/db/tournaments/5313/stats/novice_all_games/games/
+http://hsquizbowl.org/db/tournaments/5446/stats/comp._%2B_standard_all_games/games/
+http://hsquizbowl.org/db/tournaments/5446/stats/novice_all_games/games/
+http://hsquizbowl.org/db/tournaments/5646/stats/comp._%26_standard_all_games/games/
+http://hsquizbowl.org/db/tournaments/5646/stats/novice_all_games/games/
+http://hsquizbowl.org/db/tournaments/5725/stats/competitive_all_games/games/
+http://hsquizbowl.org/db/tournaments/5725/stats/standard_all_games/games/
+http://hsquizbowl.org/db/tournaments/5725/stats/novice_all_games/games/
+http://hsquizbowl.org/db/tournaments/5738/stats/all_games/games/
